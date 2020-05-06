@@ -1,0 +1,3 @@
+[submodule "nhf/2"]
+	path = nhf/2
+	url = https://github.com/Niugge/test_submodule.git
